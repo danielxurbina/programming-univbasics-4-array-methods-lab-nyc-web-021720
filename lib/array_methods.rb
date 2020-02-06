@@ -1,6 +1,12 @@
 def using_include(array, element)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
-array.include?("wow")
+if element1 && element2 == True 
+ element1 = array.include?("wow")
+ element2 = array.include?("Tardis")
+else
+  print "False"
+end
+
 end
 
 def using_sort(array)
