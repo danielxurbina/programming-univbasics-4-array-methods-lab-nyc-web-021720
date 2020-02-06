@@ -1,11 +1,5 @@
 def using_include(array, element)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
-if element1 == True && element2 == True 
- element1 = array.include?("wow")
- element2 = array.include?("Tardis")
-else
-  print "False"
-end
 
 end
 
